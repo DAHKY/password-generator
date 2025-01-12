@@ -17,4 +17,3 @@ A simple and customizable password generator built with Python.
    ```bash
    git clone https://github.com/your-username/password-generator.git
    cd password-generator
-```
