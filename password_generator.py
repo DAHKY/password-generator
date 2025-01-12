@@ -1,4 +1,3 @@
-### **Password Generator from DAHKY - `password_generator.py`**  
 ```python
 import random
 import string
