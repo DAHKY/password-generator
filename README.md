@@ -17,3 +17,6 @@ A simple and customizable password generator built with Python.
    ```bash
    git clone https://github.com/DAHKY/password-generator.git
    cd password-generator
+2. Run the Script 
+   python password_generator.py
+3. Follow the prompts to customize your password.
